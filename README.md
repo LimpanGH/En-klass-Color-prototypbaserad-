@@ -13,3 +13,5 @@ hex() - returnerar färgens hexkod "#XXYYZZ" - googla efter lämplig omvandling,
 rgba() - användaren anger även alpha-värdet som argument och returnerar "rgba(x,y,z,a)
 frivilligt med fler omvandlingar ex hsl(), etc
 Testa genom att skapa en färg (Color) och anropa respektive metod, exempelvis genom att byta bakgrundsfärgen på en sida.
+
+### Please use the extension "Better Comments" v3.0.2 or later for multicolored comments :)

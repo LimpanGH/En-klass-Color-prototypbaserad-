@@ -1,0 +1,65 @@
+#instructions {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 1.5rem;
+  font-weight: 800;
+  background-image: linear-gradient(
+    to left,
+    violet,
+    indigo,
+    green,
+    blue,
+    yellow,
+    orange,
+    red
+  );
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+button {
+  background-color: rgb(10, 212, 10);
+  border-style: none;
+  border-radius: 0.3rem;
+  margin-bottom: 3rem;
+  padding: 0.5rem;
+}
+
+#colorValues {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 1.5rem;
+  font-weight: 800;
+  background-image: linear-gradient(
+    to left,
+    violet,
+    indigo,
+    green,
+    blue,
+    yellow,
+    orange,
+    red
+  );
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+#RGB,
+#HEX,
+#RGBA {
+  background-color: rgb(84, 78, 78);
+  color: white;
+  font-size: medium;
+  height: 1.5rem;
+  width: 15rem;
+  border-radius: 0.3rem;
+  margin-bottom: 0.3rem;
+  text-align: left;
+
+  padding-left: 0.5rem;
+  padding-top: 0.2rem;
+}
